@@ -2,12 +2,13 @@ package lv.javaguru.lesson2;
 
 import java.util.Random;
 
+//OK
 public class RandomNumbersServiceTest {
     public static void main(String[] args) {
         Random randomGenerator = new Random();
-        int rundomNumber1 = randomGenerator.nextInt(100);
-        int rundomNumber2 = randomGenerator.nextInt(100);
-        int rundomNumber3 = randomGenerator.nextInt(100);
+        int rundomNumber1 = randomGenerator.nextInt(100);//typo "rundomNumber1"
+        int rundomNumber2 = randomGenerator.nextInt(100);//typo "rundomNumber1"
+        int rundomNumber3 = randomGenerator.nextInt(100);//typo "rundomNumber1"
         int sum;
 
         System.out.println("First number is: " + rundomNumber1);

@@ -1,6 +1,9 @@
 package lv.javaguru.lesson3.car;
 
+//Ok
 public class Car {
+
+    //visiem objekta laukiem ir jābūt "private", tiem piekļūt var tikai izmantotjot metodes
     String color;
     String manufacturer;
     int year;
