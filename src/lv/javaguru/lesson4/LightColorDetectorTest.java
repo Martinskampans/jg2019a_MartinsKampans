@@ -1,5 +1,6 @@
 package lv.javaguru.lesson4;
 
+//Ok
 public class LightColorDetectorTest {
     public static void main(String[] args) {
         LightColorDetector lightColorDetector = new LightColorDetector();

@@ -1,6 +1,8 @@
 package lv.javaguru.lesson3.product;
 
 public class Product {
+
+    //klases laukiem jabūt ir "private"
     String name;
     double regularPrice;
     double discount;
