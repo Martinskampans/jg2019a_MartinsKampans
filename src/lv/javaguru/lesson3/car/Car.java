@@ -8,17 +8,17 @@ public class Car {
     String manufacturer;
     int year;
 
-    public String getColor(){
+    public String getColor() {
         return color;
     }
     public void setColor(String color){
         this.color = color;
     }
-
-    public String getManufacturer(){
+    public String getManufacturer() {
         return manufacturer;
     }
     public void setManufacturer(String manufacturer){
+
         this.manufacturer = manufacturer;
     }
 
