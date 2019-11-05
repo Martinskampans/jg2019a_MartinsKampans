@@ -2,6 +2,7 @@ package lv.javaguru.lesson5;
 
 import java.util.Objects;
 
+//lietojam ctrl + alt + l
 public class Book {
     private String author;
     private String title;

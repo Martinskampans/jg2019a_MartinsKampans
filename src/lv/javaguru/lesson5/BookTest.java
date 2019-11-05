@@ -1,6 +1,8 @@
 package lv.javaguru.lesson5;
 
 public class BookTest {
+
+    //trūkst pārbaudes, kad grāmatas ir vienādas
     public static void main(String[] args) {
 
         Book book1 = new Book();
